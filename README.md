@@ -1,4 +1,4 @@
-# 📚 Sefaria Widget
+# 📚 Daily Web App
 
 Un'applicazione web moderna per esplorare il calendario ebraico e leggere testi della tradizione ebraica, powered by Sefaria.org API.
 
@@ -158,4 +158,4 @@ Progetto personale - usa come preferisci!
 
 ---
 
-Made with ❤️ using Sefaria.org
+Made with ❤️ using Sefaria.org API.
